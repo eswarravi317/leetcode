@@ -1,4 +1,3 @@
 # leetcode
- - java
- - leetcode problems
- - leetcode problem solutions
+ - javaprograms
+ - problem solutions
